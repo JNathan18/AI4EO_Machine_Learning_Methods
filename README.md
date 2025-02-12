@@ -25,7 +25,7 @@
     <li>
       <a href="#acknowledgements">Acknowledgements</a>
     </li>
-  </ol>
+    </ol>
 </details>
 
 
