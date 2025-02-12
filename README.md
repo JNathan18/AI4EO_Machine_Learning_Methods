@@ -23,7 +23,7 @@
       <a href="#notes">Notes</a>
     </li>
     <li>
-      <a href="#license">License</a>
+      <a href="#Acknowledgements">Acknowledgements</a>
     </li>
   </ol>
 </details>
@@ -56,4 +56,10 @@ This notebook finds that GMM performed slightly better than K-means when comapri
 ## Notes
 - Ensure all libraries are properly installed before running the notebook.
 - Ensure that when using the notebook all paths are changed to the data you'd like to classify.
-- The notebook was structured for educational purposes.
+- This notebook was structured for educational purposes.
+- Email zcapmcl@ucl.ac.uk regarding any issues/bugs with the notebook.
+
+## Acknowledgments
+The base code for this notebook created for UCL’s GEOL0069 module. Special thanks to Dr Michel Tsamados for guidance and support. 
+We also acknowledge the use of publicly available datasets and tools.
+
